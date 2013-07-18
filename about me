@@ -1,0 +1,47 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Webpage</title>
+<link rel="stylesheet" type="text/css" href="html.css">
+</head>
+<body>
+
+<div id="header">
+	<h1 style="text-align:center;">About Me</h1>
+</div>
+
+<div id="left_column">
+	<h2>Links</h2>
+	<br>
+	<h3><a href="file://localhost/Users/Guest/Desktop/Mike%20Landis%20html/Home.html">Home</a></h3>
+	<br>
+	<h3><a href="file://localhost/Users/Guest/Desktop/hi/there%20copy%202.html">contacts</a></h3>
+	<br>
+	<h3><a href="file://localhost/Users/Guest/Desktop/Mike%20Landis%20html/Portfolio Page.html">Portfolio</a></h3>
+</div>
+
+<div id="main_content">
+	<h2 style="text-align:center; color:black; font-size:24px">About Me</h2><br>
+	<p> hi my name is Marcus Terry, theres not too many things i like to do besides play video games watch anime and what i call my main passion in life is to draw. one day in the future i hope to become one of the greatest artist in the world and if work hard enough i might just make it. <p>as you can see below these are some of my favorite anime</p><ol>
+	<li>full metal alchemist</li>
+	<li>blue exorcist</li>
+	<li>soul eater</li>
+	<li>fairy tail</li>
+	<li>darker than black</li>
+	and many more...
+	</ol>
+			
+			
+		
+	</p>
+
+</div>
+
+<div id="footer"><img src="http://photos.imageevent.com/afap/wallpapers/animemanga/fullmetalalchemist//Fullmetal%20Alchemist.jpg" alt="width=200px" height=200px"">
+<img src="http://hvprice.files.wordpress.com/2012/05/blueexorcist-1.jpg" alt="width=200px" height=200px">    
+<img src="http://images3.wikia.nocookie.net/__cb20091113184538/souleater/images/d/d4/SoulEater.jpg" alt=""width=200px" height=200px"> 
+<img src="http://i36.mangareader.net/fairy-tail/329/fairy-tail-4110103.jpg" alt=""width=200px" height=200px"> 
+<img src="http://www.wallsave.com/wallpapers/1024x768/all-black/853168/all-black-anime-manga-darker-than-853168.jpg" alt=""width=200px" height=200px"> </div>
+
+</body>
+</html>
