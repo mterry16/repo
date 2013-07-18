@@ -1,0 +1,56 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Webpage</title>
+<link rel="stylesheet" type="text/css" href="html.css">
+</head>
+<body>
+
+<div id="header">
+	<h1 style="text-align:center;">Contacts</h1>
+</div>
+
+<div id="left_column">
+	<h2>Links</h2>
+	<br>
+	<h3><a href="file://localhost/Users/Guest/Desktop/Mike%20Landis%20html/Home.html">Home</a></h3>
+	<br>
+	<h3><a href="file://localhost/Users/Guest/Desktop/Mike%20Landis%20html/MikeLandis.html">About Me</a></h3>
+	<br>
+	<h3><a href="file://localhost/Users/Guest/Desktop/Mike%20Landis%20html/Portfolio Page.html">Portfolio</a></h3>
+</div>
+
+<div id="main_content">
+	<h2 style="text-align:center; color:black; font-size:24px">Contact Me</h2><br>
+	<p>
+		<form>
+			<h10>Your Information Please:</h10><br>
+			
+				E-Mail:<input type="text" name="e-mail"><br>
+		</form>
+	</p>
+			<br>
+		<form>
+			<h10>contact explanation:</h10><br>
+				<ul style="fontsize: 16px;">
+					<li><input type="radio" name="comment">Comment</li><br>
+					<li><input type="radio" name="complaint">Complaint</li><br>
+					<li><input type="radio" name="other">Other<input type="text" name"reason"></li><br>
+				</ul>
+		</form>
+		<form>
+			<h10>Please give detail for contact:</h10><br>
+				<textarea rows="10" cols="50"></textarea>
+		</form> i will try to contact you as soon as possible
+	<p style="font-size:16px">
+		Thank for your input,<br>
+		Marcus Terry
+	</p>
+
+</div>
+
+<div id="footer">
+</div>
+
+</body>
+</html>
