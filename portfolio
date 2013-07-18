@@ -1,0 +1,36 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Webpage</title>
+<link rel="stylesheet" type="text/css" href="html.css">
+</head>
+<body>
+
+<div id="header">
+	<h1 style="text-align:center;">Portfolio</h1>
+</div>
+
+<div id="left_column">
+	<h2>Links</h2>
+	<br>
+	<h3><a href="file://localhost/Users/Guest/Desktop/Mike%20Landis%20html/Home.html">Home</a></h3>
+	<br>
+	<h3><a href="file://localhost/Users/Guest/Desktop/Mike%20Landis%20html/MikeLandis.html">About Me</a></h3>
+	<br>
+	<h3><a href="file://localhost/Users/Guest/Desktop/Mike%20Landis%20html/Portfolio Page.html">contacts</a></h3>
+</div>
+
+<div id="main_content">
+	<h2 style="text-align:center; color:black; font-size:24px">portfolio</h2><br>
+	<p> my first game<a href="http://scratch.mit.edu/projects/11144874/">Pico bat hunt</a>
+		<p>This game is not finished but look inside<a href="http://scratch.mit.edu/projects/11225679/">joe vs fire lord</a></p>
+	
+	</p>
+
+</div>
+
+<div id="footer">
+</div>
+
+</body>
+</html>
